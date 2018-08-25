@@ -1,7 +1,7 @@
 Component({
     behaviors: ['wx://form-field'],
 
-    externalClasses: ['i-class'],
+    externalClasses: ['i-class', 'input-class', 'placeholder-class'],
 
     properties: {
         title: {
